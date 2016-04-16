@@ -1,0 +1,16 @@
+"motd_entries"
+{
+	"last_request_time"		"2016-04-14 09:54:22"
+	"last_request_language"		"english"
+	"74"
+	{
+		"post_time"		"2016-03-03 02:50:00"
+		"title_english"		"Last Call!"
+		"text_english"		"This is your last chance to participate in the Tough Break campaign before it ends! We will stop selling the Tough Break Campaign Pass after March 6, 2016. Contracts can still be worked on through March 31, 2016."
+		"url"		"http://www.teamfortress.com/toughbreak/"
+		"image"		"../vgui/main_menu/motd_tough_break"
+		"header_type"		"0"
+		"header_english"		"Tough Break Campaign Pass"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+}
